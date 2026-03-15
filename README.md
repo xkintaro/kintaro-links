@@ -24,6 +24,8 @@
 
 **Kintaro Links** is a personalized landing page designed to showcase your social media presence in style. It offers an immersive experience with dynamic background visuals, integrated music playback, and atmospheric effects.
 
+Demo https://xkintaro.github.io/kintaro-links/
+
 <img src="public/md/20260312085321949.jpg" width="auto" style="border-radius: 8px;" />
 
 ## <a id="features"></a>✨ Features
