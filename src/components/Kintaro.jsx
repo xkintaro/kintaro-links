@@ -17,7 +17,7 @@ const Kintaro = () => {
 
     const socialLinks = [
         { icon: <FaDiscord className="kintaro-icon" />, text: 'Discord', url: 'https://discord.gg/NSQk27Zdkv' },
-        { icon: <FaSteam className="kintaro-icon" />, text: 'Steam', url: 'https://steamcommunity.com/id/kintaro99w/' },
+        { icon: <FaSteam className="kintaro-icon" />, text: 'Steam', url: 'https://steamcommunity.com/id/xkintaro/' },
         { icon: <FaTiktok className="kintaro-icon" />, text: 'TikTok', url: 'https://www.tiktok.com/@xkintaro' },
         { icon: <FaInstagram className="kintaro-icon" />, text: 'Instagram', url: 'https://www.instagram.com/xkintaro/' },
         { icon: <FaSpotify className="kintaro-icon" />, text: 'Spotify', url: 'https://open.spotify.com/user/3152zo3grfl4myf54heuximi4tpm?si=518ed0e9b4534c3e' },
