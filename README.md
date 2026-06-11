@@ -1,32 +1,46 @@
+<a href="README.md">
+ <img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English">
+</a>
+<a href="README-TR.md">
+ <img src="https://img.shields.io/badge/Dil-Türkçe-red?style=flat-square&logo=google-translate&logoColor=white" alt="Türkçe">
+</a>
+
+  <br />
+  <br />
+
 <div align="center">
   <img src="public/md/logo.png" width="120" height="120" />
   <br />
   <br />
 
-[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  <p>
+    A modern, interactive Biolink and Personal Portfolio Website
+  </p>
 
-  <p align="center">
-    <b>A modern, interactive Biolink and Personal Portfolio platform</b>
-    <br />
-    <br />
-    <a href="#about">About</a> •
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+  <p>
     <a href="#features">Features</a> •
-    <a href="#tech">Technologies</a> •
-    <a href="#setup">Setup</a> 
-</p>
+    <a href="#technologies">Technologies</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#license">License</a> •
+    <a href="#gallery">Gallery</a>
+  </p>
+
+  <br />
+  <br />
 </div>
 
----
+## 📷 Demo Link
+
+- [https://xkintaro.github.io/kintaro-links/](https://xkintaro.github.io/kintaro-links/)
 
 ## <a id="about"></a>📋 About
 
 **Kintaro Links** is a personalized landing page designed to showcase your social media presence in style. It offers an immersive experience with dynamic background visuals, integrated music playback, and atmospheric effects.
-
-Demo https://xkintaro.github.io/kintaro-links/
-
-<img src="public/md/20260312085321949.jpg" width="auto" style="border-radius: 8px;" />
 
 ## <a id="features"></a>✨ Features
 
@@ -52,57 +66,52 @@ Demo https://xkintaro.github.io/kintaro-links/
 - **Fully Responsive**: Optimized for desktop and mobile devices.
 - **Dark Mode Aesthetic**: A deep, curated color palette designed for high-end visual appeal.
 
-<img src="public/md/20260312085322056.jpg" width="auto" style="border-radius: 8px;" />
-
-## <a id="tech"></a>🛠️ Technologies
+## 🛠️ Technologies <a id="technologies"></a>
 
 The project utilizes a modern development stack focused on speed and developer experience:
 
-- **[React 19](https://react.dev/)**: Leveraging the latest features of the world's most popular UI library.
-- **[Vite](https://vitejs.dev/)**: Next-generation frontend tooling for lightning-fast development.
-- **[React Icons](https://react-icons.github.io/react-icons/)**: Comprehensive icon set for social and UI elements.
-- **[Vanilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**: Custom, optimized styling without the overhead of heavy frameworks.
+- **React 19**: Leveraging the latest features of the world's most popular UI library.
+- **Vite**: Next-generation frontend tooling for lightning-fast development.
+- **React Icons**: Comprehensive icon set for social and UI elements.
+- **Vanilla CSS**: Custom, optimized styling without the overhead of heavy frameworks.
 
-## <a id="setup"></a>🚀 Setup and Development
+## 🚀 Installation <a id="installation"></a>
 
-Follow these steps to get the project running locally.
+Follow these steps to get the project running locally:
 
-### Requirements
+1. **Clone the Repository:**
 
-- **Node.js** (v18 or higher)
-- **npm** or **yarn**
+   ```bash
+   git clone https://github.com/xkintaro/kintaro-links.git
+   cd kintaro-links
+   ```
 
-### Step-by-Step Installation
+2. **Install Dependencies:**
 
-1.  **Clone the Repository**
+   ```bash
+   npm install
+   ```
 
-    ```bash
-    git clone https://github.com/xkintaro/kintaro-links.git
-    cd kintaro-links
-    ```
+3. **Start the Development Server:**
+   ```bash
+   npm run dev
+   ```
+   You can view the project by navigating to `http://localhost:5173` in your browser.
 
-2.  **Install Dependencies**
+## 📄 License <a id="license"></a>
 
-    ```bash
-    npm install
-    ```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-3.  **Run Development Server**
+## 🖼️ Gallery <a id="gallery"></a>
 
-    ```bash
-    npm run dev
-    ```
+<img src="public/md/20260312085321949.jpg" width="auto" />
 
-    Access the application at `http://localhost:5173`.
+#
 
-4.  **Build for Production**
-    ```bash
-    npm run build
-    ```
-    The build artifacts will be stored in the `dist/` directory.
+<img src="public/md/20260312085322056.jpg" width="auto" />
 
----
+#
 
 <p align="center">
-  <sub>❤️ Developed by <a href="https://github.com/xkintaro">Kintaro</a>.</sub>
+  <sub>❤️ Developed by "Mustafa TAŞAL" (kintaro)</sub>
 </p>
